@@ -1,0 +1,2 @@
+public class offer03 {
+}
